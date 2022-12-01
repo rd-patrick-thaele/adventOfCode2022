@@ -1,0 +1,11 @@
+# Windows
+gradlew.bat
+
+# IDE files
+.idea
+
+# Gradle Cache
+.gradle
+
+# Build Directory
+build
